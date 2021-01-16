@@ -1,15 +1,21 @@
-## Welcome to GitHub Pages
+# My personal resume
+## Contact me:
 
-You can use the [editor on GitHub](https://github.com/xieheng0915/mangxier/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+email: xieheng0915@gmail.com
+wechatID: mangxier
+twitter: @xieheng0915
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My profile
 
-### Markdown
+Graduated: bachelor by USTC, master by Fudan, MBA 
+working years: 20+
+current job title: architect
+github: http://github.com/xieheng0915
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My hobies:
+1. free writing
+2. cooking
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
