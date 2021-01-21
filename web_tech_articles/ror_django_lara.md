@@ -167,7 +167,7 @@
         <thead>
             <tr  style="text-align:center">
                 <th colspan="2">指標</th>
-                <th>強い--------------------->弱い</th>
+                <th style="width: 500px">強い--------------------->弱い</th>
             </tr>
         </thead>
         <tbody>
@@ -175,36 +175,36 @@
                 <tr>
                     <th rowspan="5">Performance</th>
                     <td>Json serialization</td>
-                    <td>Djando > Ruby on Rails > Laravel </td>
+                    <td  style="text-align:center">Djando > Ruby on Rails > Laravel </td>
                 </tr>
                 <tr>
                     <td>data update</td>
-                    <td>Laravel > Django > Ruby on Rails
+                    <td  style="text-align:center">Laravel > Django > Ruby on Rails
                     </td>
                 </tr>
                 <tr>
                     <td>plain text response</td>
-                    <td> Django > Ruby on Rails > Laravel 
+                    <td  style="text-align:center"> Django > Ruby on Rails > Laravel 
                     </td>
                 </tr>
                 <tr>
                     <td>single query test</td>
-                    <td> Django > Laravel > Ruby on Rails 
+                    <td  style="text-align:center"> Django > Laravel > Ruby on Rails 
                     </td>
                 </tr>
                 <tr>
                     <td>multiple query test<br>(*with join)</td>
-                    <td> Laravel > Ruby on Rails > Django 
+                    <td  style="text-align:center"> Laravel > Ruby on Rails > Django 
                     </td>
                 </tr>
             </tr>
             <tr>
                 <th colspan="2">Security</th>
-                <td> Django > Ruby on Rails > Laravel </td>
+                <td  style="text-align:center"> Django > Ruby on Rails > Laravel </td>
             </tr>
             <tr>
                 <th colspan="2">Scalability</th>
-                <td> Django > Laravel > Ruby on Rails </td>
+                <td  style="text-align:center"> Django > Laravel > Ruby on Rails </td>
             </tr>
         </tbody>
      </table>  
