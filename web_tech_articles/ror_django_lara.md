@@ -10,27 +10,27 @@
             <th>Laravel</th>
         </tr>
     </thead>
-    <tbody style="font-size: small;">
+    <tbody style="font-size: middle;">
         <tr>
-            <th style="font-size: small">依存言語の人気度<br>(by Stack Overflow developer)<br>*下記図を参考</th>
+            <th style="font-size: middle">依存言語の人気度<br>(by Stack Overflow developer)<br>*下記図を参考</th>
             <td>38.8%</td>
             <td>30.7%</td>
             <td>10.1%</td>
         </tr>
         <tr>
-            <th style="font-size: small">市場既存案件採用比率</th>
+            <th style="font-size: middle">市場既存案件採用比率</th>
             <td>0.19%</td>
             <td>0.98%</td>
             <td>0.27%</td>
         </tr>
         <tr>
-            <th style="font-size: small">GitHubフォークされた回数</th>
+            <th style="font-size: middle">GitHubフォークされた回数</th>
             <td>17.3K</td>
             <td>17.1K</td>
             <td>15.5K</td>
         </tr>
         <tr>
-            <th style="font-size: small">Reddit得点</th>
+            <th style="font-size: middle">Reddit得点</th>
             <td>5.33K</td>
             <td>2.16K</td>
             <td>3.44K</td>
@@ -52,16 +52,16 @@
             </tr>
         </thead>
 
-        <tbody style="font-size: small;">
-        <tr style="vertical-align: top;font-size: small">
-            <td style="width: 35%;font-size:small">
+        <tbody style="font-size: middle;">
+        <tr style="vertical-align: top;font-size: middle">
+            <td style="width: 35%;font-size:middle">
                 - 11,685開発者を持ち（2019/3時点)<br>
                 - Mailing list & blogs: <strong>DjangoTricks etc.</strong><br>
                 - source code snippet sharing: <strong>Djangosnippets</strong><br>
                 - rich education resources: <strong>Official tutorial, website: "Django Girls"</strong><br>
                 - directory of Django packages: <strong>Django Packages</strong><br>
             </td>
-            <td style="width: 30%;font-size:small">
+            <td style="width: 30%;font-size:middle">
                 - 4500 貢献者を持ち<br>
                 - Mailing list & community: <strong>RoR: Talk</strong><br>
                 - Weekly newsletter: <strong>This week in Rails</strong><br>
@@ -70,7 +70,7 @@
                 - tutorial platform: <strong>GoRails</strong><br>
                 - Stack Overflow community: <strong>Ruby-forum.com</strong><br>
             </td>
-            <td style="width: 35%;font-size:small">
+            <td style="width: 35%;font-size:middle">
                 - education resources: <strong>Laracasts,Test-Driven Laravel etc. </strong><br>
                 - community forum: <strong>Laravel.io</strong><br>
                 - official blog: <strong>Laravel News</strong><br>
@@ -92,7 +92,7 @@
         </thead>
         <tbody>
             <tr style="vertical-align: top">
-                <td style="width: 35%;font-size:small">
+                <td style="width: 35%;font-size:middle">
                     - 4,000 packages<br>
                     - <strong>Django allauth: </strong> account auth via fb, twitter, google, github etc.<br>
                     - e-commerce apps: <strong>Django shop, Oscar, Catridge</strong><br>
@@ -101,12 +101,12 @@
                     - debug: <strong>The Debug Toolbar</strong><br>
                     - CMS system: <strong>Wagtail, Mezzanine </strong><br>
                 </td>
-                <td style="width: 30%;font-size:small">
+                <td style="width: 30%;font-size:middle">
                     - reusable code <br> 
                     - real-time oper: email :<strong>Action Mailer</strong><br>
                     - cloud file handler: <strong>Active Storage</strong><br>
                 </td>
-                <td style="width: 35%;font-size:small">
+                <td style="width: 35%;font-size:middle">
                     - 15.7k packages<br>
                     - Stripe integration(payment): <strong>Cashier</strong><br>
                     - API: <strong>Envoy and Passport</strong><br>
@@ -129,7 +129,7 @@
         </thead>
         <tbody>
             <tr style="vertical-align: top">
-                <td style="width: 35%;font-size:small">
+                <td style="width: 35%;font-size:middle">
                     - <strong>built-in admin sections</strong><br>  
                     - auto-generated forms for models<br>  
                     - caching<br>  
@@ -143,14 +143,14 @@
                     - <strong>Built-in security mitigation tools </strong>(csrf, sql injection, pwd cracking etc.)<br>
                     - having <strong>Rest framework(DRF)</strong><br>
                 </td>
-                <td style="width: 30%;font-size:small">
+                <td style="width: 30%;font-size:middle">
                     - Having tools for <strong>common development tasks</strong>, like "scaffolding" to automatically construct models<br>
                     - ActiveModelHelper: Magically active record tool, easier than ORM in Django and Laravel<br>
                     - Using shortcuts to write few lines of code<br> 
                     - Auto routing<br>
                     - Very useful command line tool: rake<br>
                 </td>
-                <td style="width: 35%;font-size:small">
+                <td style="width: 35%;font-size:middle">
                   - Bundles and composer for packaging system<br>
                   - Easistes way to manage Routing<br> 
                   - <strong>Eloquent ORM support</strong><br>
@@ -163,7 +163,7 @@
      </table>
 3. パフォーマンス、セキュリティー、スケーラビリティ(Performance & security & scalabity)
    
-     <table style="font-size: small">
+     <table style="font-size: middle">
         <thead>
             <tr  style="text-align:center">
                 <th colspan="2">指標</th>
@@ -239,7 +239,7 @@
      - Open-source
      - Multiple-platform support
    - Pros & Cons by experienced projects(高評及び批判)： 
-     <table style="font-size:small;">
+     <table style="font-size:middle;">
         <thead>
             <tr style="text-align:center">
                 <th style="width: 20%"></th>
