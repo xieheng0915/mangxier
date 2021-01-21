@@ -295,4 +295,6 @@
    Node.jsも検討に入れられているですが、Node.jsはRDBへの操作はあまり評判が悪い、  
    ORMなど機能はほとんどのバックエンドツールにとっては必須機能なので、比較対象に入れない。  
 
-   
+###### 参考先：
+1. ![Ruby on Rails vs Django vs Laravel: The Ultimate Comparison...](https://steelkiwi.com/blog/ruby-django-laravel-frameworks-comparison/)
+2. ![Django vs Laravel vs Rails](https://www.flowkl.com/article/web-development/django-vs-laravel-vs-rails/)
