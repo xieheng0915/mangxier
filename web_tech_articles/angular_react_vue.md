@@ -33,7 +33,7 @@
    </table>
    
 2. 特徴
-   ![Feature comparation](sources/performance_comp.jpg)
+   ![Feature comparation](an_re_vu_sources/performance_comp.jpg)
 3. 学習コスト  
   
 
@@ -75,15 +75,15 @@
 4. 性能  
    Bundle Size: Angular > React > Vue  
    1. StartUp Speed:  
-   ![Startupスピード](sources/startup_metrics.png)
+   ![Startupスピード](an_re_vu_sources/startup_metrics.png)
    1. Memory Allocation:  
-   ![Memory Allocation](sources/memory_allocation.png)
+   ![Memory Allocation](an_re_vu_sources/memory_allocation.png)
 5. 人気度  
    下記データはGoogle上サーチ回数の比較結果:
-   ![google search result](sources/framework_trends.png)
+   ![google search result](an_re_vu_sources/framework_trends.png)
 6. 将来性  
    下記はGitHub上Starをつける数  
-   ![github star history](sources/frameworks_star_history.png)
+   ![github star history](an_re_vu_sources/frameworks_star_history.png)
 7. その他情報  
    Angular 初回リリース：2010   
    React 初回リリース： 2013  
