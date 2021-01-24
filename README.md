@@ -8,14 +8,21 @@
    
 ##### Azure関連
 
+1. [Azure DevOpsでCICDを実現]()
+2. [Azure + Jenkins + githubでCI/CD - その①](Azure_tech/azure_jenkins_001.md)  
 
-## Contact me at: 
+## My contact: 
 gmail: xieheng0915@gmail.com  
+github: https://github.com/xieheng0915  
+wechatID: mangxier  
+twitter: 
+facebook: 
+instagram: 
+ 
+
+## My profile: 
 
 
 
-
-
-## License
 
 
