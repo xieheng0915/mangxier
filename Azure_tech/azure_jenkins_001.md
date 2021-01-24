@@ -50,7 +50,7 @@ docker logs upbeat-bell // jenkinsの初期パスワードはログからチェ�
   Build Triggers -> GitHub hook trigger for GITScm polling   
   ![configuration 02](jenkins_sources/configuration-02.png)  
 
-  - 3.2) Github でwebhookを作成　　
+- 3.2) Github でwebhookを作成　　
   github -> CI/CD 対象プロジェクト -> Settings -> Webhooks 
   Payload URL: jenkins url + /github-webhook/   
   Content type: applicaiton/json 
@@ -58,7 +58,7 @@ docker logs upbeat-bell // jenkinsの初期パスワードはログからチェ�
   ![create a webhook](jenkins_sources/create-a-webhook.png)  
   ![after created](jenkins_sources/afterwebhookcreated.png)  
 
-  - 3.3) test 
+- 3.3) test 
     + repo で　ファイルを編集、Push
     + jenkinsで自動反映とBuild
    ![auto-detect-push](jenkins_sources/autopull-with-webhook.png) 
