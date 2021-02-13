@@ -20,7 +20,8 @@ facebook:
 instagram: 
  
 
-## My profile: 
+## Chinese Blog:
+1. [我终于看懂了《卧虎藏龙》](ChineseBlog/I_finally_understood_the_movie.md)
 
 
 
