@@ -4,8 +4,13 @@
 
 - 3Dセキュアとは
   「3Dセキュア」の「D」は「ドメイン」の略です。ドメインには、アクワイアラードメイン(Acquirer domain)、イシュアードメイン(Issuer Domain)、さらにその2つをリンクさせる相互運用ドメインの3つがあります。
+  3DS1:  
   https://www.gpayments.com/jp/about/3d-secure/
   ![3DSecure V1.0 Security Flow ](resource/3DS1.png)
+  3DS2:  
+  https://www.gpayments.com/jp/about/3d-secure-2.0/
+  
+  
 - ACS CAVs
   ACS: Access Control server (上記の図を参考)
 
