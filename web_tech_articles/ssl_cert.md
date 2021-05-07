@@ -54,10 +54,10 @@ If you enter '.', the field will be left blank.
 Country Name (2 letter code) []:JP
 State or Province Name (full name) []:TKY
 Locality Name (eg, city) []:TKY
-Organization Name (eg, company) []:dnp
-Organizational Unit Name (eg, section) []:dpf
-Common Name (eg, fully qualified host name) []:*.dnp.com
-Email Address []:abc@dpf.com
+Organization Name (eg, company) []:ddd
+Organizational Unit Name (eg, section) []:ppp
+Common Name (eg, fully qualified host name) []:*.ddd.com
+Email Address []:abc@ppp.com
 
 Please enter the following 'extra' attributes
 to be sent with your certificate request
@@ -78,7 +78,7 @@ verify OK
 Certificate Request:
     Data:
         Version: 0 (0x0)
-        Subject: C=JP, ST=TKY, L=TKY, O=dnp, OU=dpf, CN=*.dnp.com/emailAddress=abc@dpf.com
+        Subject: C=JP, ST=TKY, L=TKY, O=ddd, OU=ppp, CN=*.ddd.com/emailAddress=abc@ppp.com
         Subject Public Key Info:
             Public Key Algorithm: rsaEncryption
                 Public-Key: (2048 bit)
@@ -131,7 +131,7 @@ Certificate Request:
 ```
 $openssl x509 -in sample.csr -out sampole.crt -req -signkey sample.key -days 90 
 Signature ok
-subject=/C=JP/ST=TKY/L=TKY/O=dnp/OU=dpf/CN=*.dnp.com/emailAddress=abc@dpf.com
+subject=/C=JP/ST=TKY/L=TKY/O=ddd/OU=ppp/CN=*.ddd.com/emailAddress=abc@ppp.com
 Getting Private key
 $ls -la //確認：crtファイル作成されたこと
 total 32
