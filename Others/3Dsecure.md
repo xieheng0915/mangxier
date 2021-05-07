@@ -66,3 +66,5 @@
 - PSD2: payment services directive
 - SCA: Strong Customer Authentication
 
+
+- Payment gateway (Paypal, stripe etc) vs. credit card
