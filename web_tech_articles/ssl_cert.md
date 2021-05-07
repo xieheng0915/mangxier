@@ -27,7 +27,9 @@ drwxr-xr-x  37 xieheng  staff  1184  5  8 00:40 ..
 ##### Step 2. 秘密鍵からパブリック鍵の抽出：  
 
 秘密鍵からパブリック鍵を作成、パブリック鍵を通信相手に渡す。
-
+- Input: 秘密鍵  
+- Output：パブリック鍵  
+  
 ```
 $ openssl rsa -in sample.key -pubout -out sample_pub.key
 writing RSA key
@@ -42,6 +44,8 @@ drwxr-xr-x  37 xieheng  staff  1184  5  8 00:40 ..
 
 ##### Step 3. CSRファイルの作成： 
 秘密鍵からCSRを作成する
+- Input: 秘密鍵
+- Output: CSRファイル  
 ```
 $openssl req -new -key sample.key -out sample.csr
 You are about to be asked to enter information that will be incorporated
@@ -125,8 +129,9 @@ Certificate Request:
 
 ##### Step 4. 署名証明書の作成：
 通常はCSRをCAサーバへ渡し、証明書を発行してもらう、テストのため、Self-signed 証明書を作成する。　
-- インプット：CSRファイル　
-- 署名鍵：秘密鍵　
+- Input: CSRファイル　
+- 署名鍵: 秘密鍵　
+- Output: 署名証明書  
 
 ```
 $openssl x509 -in sample.csr -out sampole.crt -req -signkey sample.key -days 90 
@@ -142,3 +147,8 @@ drwxr-xr-x  37 xieheng  staff  1184  5  8 00:40 ..
 -rw-r--r--   1 xieheng  staff   451  5  8 01:22 sample_pub.key
 -rw-r--r--   1 xieheng  staff  1241  5  8 01:27 sampole.crt
 ```
+
+
+###### reference:
+https://www.youtube.com/watch?v=wzbf9ldvBjM
+https://cshihong.github.io/2019/05/09/SSL%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3/
