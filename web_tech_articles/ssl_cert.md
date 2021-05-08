@@ -150,5 +150,5 @@ drwxr-xr-x  37 xieheng  staff  1184  5  8 00:40 ..
 
 
 ###### reference:
-https://www.youtube.com/watch?v=wzbf9ldvBjM
-https://cshihong.github.io/2019/05/09/SSL%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3/
+[OpenSSL Step By Step Tutorial | How to Generate Keys, Certificates & CSR Using OpenSSL](https://www.youtube.com/watch?v=wzbf9ldvBjM)
+[SSL/TLS协议详解](https://cshihong.github.io/2019/05/09/SSL%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3/)
