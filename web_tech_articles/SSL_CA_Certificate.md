@@ -36,4 +36,6 @@ ref:
 [How does HTTPS work? What's a CA? What's a self-signed Certificate?](https://www.youtube.com/watch?v=T4Df5_cojAs&t=4s)
 
 
+次へ：
+[Keystore、TrustStoreと通信処理サンプル](./ks_ts_cert.md)
 
