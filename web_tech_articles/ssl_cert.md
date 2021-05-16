@@ -75,7 +75,9 @@ drwxr-xr-x  37 xieheng  staff  1184  5  8 00:40 ..
 -rw-r--r--   1 xieheng  staff  1679  5  8 01:21 sample.key
 -rw-r--r--   1 xieheng  staff   451  5  8 01:22 sample_pub.key
 ```
+
 必要な場合、CSRの内容を確認する：
+
 ```
 $openssl req -text -in sample.csr -noout -verify
 verify OK
@@ -125,6 +127,7 @@ Certificate Request:
          a2:cf:cd:86:a8:cc:78:b4:36:6c:55:a7:ae:80:ee:28:80:2a:
          4a:0e:4a:3f
 ```
+
 組織名、国名など情報は正しいか確認する、間違っている場合は再作成する。
 
 ##### Step 4. 署名証明書の作成：
@@ -147,7 +150,6 @@ drwxr-xr-x  37 xieheng  staff  1184  5  8 00:40 ..
 -rw-r--r--   1 xieheng  staff   451  5  8 01:22 sample_pub.key
 -rw-r--r--   1 xieheng  staff  1241  5  8 01:27 sampole.crt
 ```
-
 
 ###### reference:
 [OpenSSL Step By Step Tutorial | How to Generate Keys, Certificates & CSR Using OpenSSL](https://www.youtube.com/watch?v=wzbf9ldvBjM)
