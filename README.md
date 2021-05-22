@@ -31,6 +31,7 @@ instagram:
 1. [我终于看懂了《卧虎藏龙》](ChineseBlog/I_finally_understood_the_movie.md)
 2. [重看锵锵三人行有感](ChineseBlog/my_sadness.md)
 3. [后山沉思录](ChineseBlog/thinking_in_the_garden.md)
+4. [山居静夜思 之一](ChineseBlog/shanjujingsi.md)
 
 
 
