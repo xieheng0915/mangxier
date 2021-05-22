@@ -18,13 +18,7 @@
 1. [Azure DevOpsでCICDを実現]()
 2. [Azure + Jenkins + githubでCI/CD - その①](Azure_tech/azure_jenkins_001.md)  
 
-## My contact: 
-gmail: xieheng0915@gmail.com  
-github: https://github.com/xieheng0915  
-wechatID: mangxier  
-twitter: 
-facebook: 
-instagram: 
+
  
 
 ## Chinese Blog:
@@ -32,6 +26,16 @@ instagram:
 2. [重看锵锵三人行有感](ChineseBlog/my_sadness.md)
 3. [后山沉思录](ChineseBlog/thinking_in_the_garden.md)
 4. [山居静夜思 之一](ChineseBlog/shanjujingsi.md)
+
+
+
+## My contact: 
+gmail: xieheng0915@gmail.com  
+github: https://github.com/xieheng0915  
+wechatID: mangxier  
+twitter: 
+facebook: 
+instagram: 
 
 
 
