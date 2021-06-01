@@ -8,3 +8,15 @@
 \\192.168.3.60\book\JavaScript\
 
 \\192.168.3.60\book\JavaScript\[JavaScript权威指南(第七版)].(美)David.Flanagan.英文.pdf
+
+
+Visa CAVV7:
+
+Visa Online の Visa Secure Documentation ページ（英語版のみ）にある以下の文書を参照してください。 
+• Visa’s 3-D Secure Cardholder Authentication Verification Value （CAVV） Guide
+• Visa Secure Program Guide
+• Visa Secure Issuer Implementation Guide for 3-D Secure 1.0.2
+• Visa Secure Merchant / Acquirer Implementation Guide for 3-D Secure 1.0.2
+• Visa Secure Issuer Implementation Guide for EMV® 3-D Secure
+• Visa Secure Merchant / Acquirer Implementation for EMV® 3-D Secure
+• Visa Secure Dispute Resolution Guide
