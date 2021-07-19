@@ -1,3 +1,4 @@
+EMVCo_3DS_Spec_v220_122018.pdf  
 ```
 2.5.3 Processing Payment EMV Payment Tokens
 General configuration:
@@ -12,3 +13,9 @@ During the Authentication Request (AReq) message flow, it might be necessary for
 ```
 トランザクションの中でEMVペイメントの処理：
 必要ならAReqの中にデートークン化することも可能、ちなみにACSの方はPANだけで良い。ただし、該当トランザクションはペイメントトークンから始める場合はPTI＝Trueに設定する。
+
+
+ref:  
+- EMVCo_3DS_Spec_v220_122018.pdf
+- EMVCo-Payment-Tokenisation-A-Guide-To-Use-Cases-v2.0.pdf
+- EMVCo-Payment-Tokenisation-Specification-Technical-Framework-v2.2.pdf
