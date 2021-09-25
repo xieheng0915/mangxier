@@ -19,7 +19,8 @@
 2. [Azure + Jenkins + githubでCI/CD - その①](Azure_tech/azure_jenkins_001.md)  
 
 
- 
+##### Python and investigation  
+1. [用python分析投资组合的风险](python/covariation_and_correlation.md) 
 
 ## Chinese Blog:
 1. [我终于看懂了《卧虎藏龙》](ChineseBlog/I_finally_understood_the_movie.md)
