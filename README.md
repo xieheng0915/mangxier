@@ -28,7 +28,7 @@
 3. [后山沉思录](ChineseBlog/thinking_in_the_garden.md)
 4. [山居静夜思 之一](ChineseBlog/shanjujingsi.md)
 5. [普通人英雄](ChineseBlog/ordinary_hero.md)
-
+6. [京都之谜](ChineseBlog/kyoto_travel.md)
 
 
 ## My contact: 

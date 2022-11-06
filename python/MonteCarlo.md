@@ -9,3 +9,5 @@
 
 - Ref: 
   - [营业费用和销货成本有何不同？](http://abcexchange.io/ask/answers/101314/what-are-differences-between-operating-expenses-and-cost-goods-sold-cogs.asp)
+  - [基于LSTM的股票价格预测模型](https://bigquant.com/wiki/doc/gupiaojiage-moxing-cYYXJYekqe)
+  - [Logistic regression model](https://christophm.github.io/interpretable-ml-book/logistic.html)

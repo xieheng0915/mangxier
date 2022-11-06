@@ -7,7 +7,6 @@ OLS的 linregress(线性回归) func输出项： slope, intercept, P-value, R-va
 - R value: R 相关系数
 - R value ^2: R^2
   __小的P值/高的R2的组合表明预测量的变化和因变量的变化有关，并且您的模型解释了一些反应变异性。__  
-  
 - std-err: 预测的斜率的标准差
 - intercept std-err: 预测的截距的标准差
 
