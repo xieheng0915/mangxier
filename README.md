@@ -32,7 +32,7 @@
 7. [关于上野千鹤子教授和北大三位女生的对谈节目](ChineseBlog/ueno_peking_students.md)
 
 ##### Ideas: 
-1. [+21 chatGPT business ideas for 2023](Idea&Info/Biz_with_openAI.md)
+1. [agenda](Idea&Info/agenda.md)
 
 
 ## My contact: 
