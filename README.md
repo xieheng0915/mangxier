@@ -31,6 +31,9 @@
 6. [京都之谜](ChineseBlog/kyoto_travel.md)
 7. [关于上野千鹤子教授和北大三位女生的对谈节目](ChineseBlog/ueno_peking_students.md)
 
+##### Ideas: 
+1. [+21 chatGPT business ideas for 2023](Idea&Info/Biz_with_openAI.md)
+
 
 ## My contact: 
 gmail: xieheng0915@gmail.com  
