@@ -1,4 +1,4 @@
-##### reference: 
+### reference: 
 [chatGPT in depth demo: ](https://www.youtube.com/watch?v=rnIgnS8Susg)
 
 [Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)
@@ -8,7 +8,7 @@
 [SINGULARITY TIMELINE | ARTIFICIAL INTELLIGENCE + AGI + ASI (2023 - 2100¹⁰⁰)](https://www.youtube.com/watch?v=P5HNeahRYDM)
 
 
-##### lex Fridman 采访 open AI CEO Sam Altman 概要归纳
+### lex Fridman 采访 open AI CEO Sam Altman 概要归纳
 我感觉我也不大会总结，就用以下列表的方式写一下，这里不遵循访谈中话题的时间顺序，想到什么写什么：  
 - 关于chatGPT 的训练： Sam说其实训练的时间并不是太长，他们是基于结果，给GPT问题，假如让他回答十次，对十次回答结果分别打分，反馈给GPT，这个应该是DL当中的强化训练吧，效果很好。
 - sam提到他们发现AI不是在计算（calculating, computing）而是在思考(thinking),这个是他感觉到有点害怕的。（不记得这个在哪个视频看到的，或许是ABC的采访片段里）Sam坦率地说将来或许会超出工程师的控制，不见得以后会完全align human。（大概这个发言是让很多科技大佬紧张的地方）而Lex也提到在chatGPT的回答中，他感觉到chatGPT是有一些思考的，并且感觉到有些问题他理解了，但回答错了。Lex又提到一些转换提问的方式，有时候能够套出一些不该说的话。
@@ -22,7 +22,7 @@
 - 关于如何雇佣好的员工，省略
 - 关于leadership，省略
 
-##### technical guide to GPT
+### technical guide to GPT
 昨天看了一下chatGPT的技术白皮书，大概是三种应用方式：
 - API：用chatGPT的API，或者插件，纯应用
 - fine-tuning: 用一些较小的数据集中train 一下专业领域的模型，然后应用
