@@ -1,11 +1,11 @@
 ### reference: 
-[chatGPT in depth demo: ](https://www.youtube.com/watch?v=rnIgnS8Susg)
+- [chatGPT in depth demo: ](https://www.youtube.com/watch?v=rnIgnS8Susg)
 
-[Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)
-[Ilya Sutskever: Deep Learning | Lex Fridman Podcast #94](https://www.youtube.com/watch?v=13CZPWmke6A)
-[Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization | Lex Fridman Podcast #368](https://www.youtube.com/watch?v=AaTRHFaaPG8)
-[Our Final Invention - Artificial General Intelligence (AGI)](https://www.youtube.com/watch?v=Y2d1AU7_JvM)
-[SINGULARITY TIMELINE | ARTIFICIAL INTELLIGENCE + AGI + ASI (2023 - 2100¹⁰⁰)](https://www.youtube.com/watch?v=P5HNeahRYDM)
+- [Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)
+- [Ilya Sutskever: Deep Learning | Lex Fridman Podcast #94](https://www.youtube.com/watch?v=13CZPWmke6A)
+- [Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization | Lex Fridman Podcast #368](https://www.youtube.com/watch?v=AaTRHFaaPG8)
+- [Our Final Invention - Artificial General Intelligence (AGI)](https://www.youtube.com/watch?v=Y2d1AU7_JvM)
+- [SINGULARITY TIMELINE | ARTIFICIAL INTELLIGENCE + AGI + ASI (2023 - 2100¹⁰⁰)](https://www.youtube.com/watch?v=P5HNeahRYDM)
 
 
 ### lex Fridman 采访 open AI CEO Sam Altman 概要归纳
