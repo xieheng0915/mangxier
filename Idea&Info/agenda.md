@@ -1,2 +1,3 @@
 - [+21 chatGPT business ideas for 2023](Biz_with_openAI.md)
 - [ Summary of technical guide on how to use and implement chatGPT](tech_guide_to_GPT.md)
+- [lex Fridman 采访 open AI CEO Sam Altman 概要](chatGPT-study.md)
